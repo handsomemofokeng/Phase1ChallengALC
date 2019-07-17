@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="my_profile">My Profile</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="alc_url">https://andela.com/alc/</string>
+    <string name="phase_1_challenge">Phase 1 Challenge</string>
+    <string name="my_profile_picture">My profile picture</string>
+    <string name="my_name">Handsome Mofokeng</string>
+    <string name="my_track">\t Android</string>
+    <string name="my_country">\t South Africa</string>
+    <string name="my_email">\t handsomem23@hotmail.com</string>
+    <string name="my_phone_number">\t 063 288 1025</string>
+    <string name="my_slack_username">\t @HandsomeMofokeng</string>
+    <string name="track">Track</string>
+    <string name="country">Country</string>
+    <string name="slack_logo">Slack logo</string>
+</resources>
