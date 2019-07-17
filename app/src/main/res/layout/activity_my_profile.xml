@@ -218,10 +218,8 @@
                 android:layout_marginTop="5dp"
                 android:background="@color/colorPrimary" />
 
-
         </LinearLayout>
 
     </ScrollView>
-
 
 </LinearLayout>

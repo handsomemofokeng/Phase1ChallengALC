@@ -5,7 +5,6 @@ import android.support.v7.app.ActionBar;
 
 public class ApplicationClass extends Application {
 
-
     /**
      * This method sets up an Action Bar for any given Activity
      *
@@ -27,7 +26,6 @@ public class ApplicationClass extends Application {
         actionBar.setHomeButtonEnabled(true);
         actionBar.setDisplayShowHomeEnabled(true);
         return actionBar;
-
 
     }
 }
